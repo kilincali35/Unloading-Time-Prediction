@@ -1,1 +1,3 @@
 # Unloading-Time-Prediction
+
+This code snippet is about a project, aiming towards predicting the unloading time at a customer location. Main objective was to find a regression formula, whether linear or polynomial, in order to support optimization algorithm with a better parameter estimation. We used to use a fixed unloading time before this proect. We decided to investigate if there may be a dynamic alternative to this fixed parameter. Unfortunately, data collection in this part of our company is a little bit dirty and without a clear procedure. This led to bad performance for regression algorithm in the end.
